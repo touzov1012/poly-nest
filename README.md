@@ -47,4 +47,6 @@ public enum NFPQUALITY
 }
 ```
 
-We can compare the results under these settings on a model with 1622 irregular shapes.
+We can compare the results under these settings on a model with 1622 irregular shapes with an Intel Core i7-6700.
+
+<p align="center"><img src="https://user-images.githubusercontent.com/26099083/97882676-e0d9d380-1cf1-11eb-8457-c37325159a0f.png"></p>
